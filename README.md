@@ -1,8 +1,6 @@
-Whatsapp Click to Chat
+Whatsapp Click to Chat (_using HTML and CSS_)
 
-Continue to Chat | Open to Chat/ Whatsapp Button Plugins/ Message US/ Whatsapp Button
-
-Tech Stack :  HTML CSS
+_Continue to Chat | Open to Chat/ Whatsapp Button Plugins/ Message US/ Whatsapp Button_
 
 Button Shape
 
