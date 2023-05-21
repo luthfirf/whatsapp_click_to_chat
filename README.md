@@ -2,6 +2,8 @@ Whatsapp Click to Chat
 
 Continue to Chat | Open to Chat/ Whatsapp Button Plugins/ Message US/ Whatsapp Button
 
+Tech Stack :  HTML CSS
+
 Button Shape
 
 ![image](https://github.com/luthfirf/whatsapp_click_to_chat/assets/65375034/3643ad32-a768-4162-bbe8-48da124a4bf2)
