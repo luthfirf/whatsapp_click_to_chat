@@ -7,9 +7,10 @@ Button Shape
 ![image](https://github.com/luthfirf/whatsapp_click_to_chat/assets/65375034/3643ad32-a768-4162-bbe8-48da124a4bf2)
 ![image](https://github.com/luthfirf/whatsapp_click_to_chat/assets/65375034/d1e04974-4d4d-4ca7-93f3-df6ecbaab99f)
 
-Button Position Placed (Bottom Right Corner)
-
+Button Position Placed (Bottom Right Corner) <br>
+(Second Version)
 ![image](https://github.com/luthfirf/whatsapp_click_to_chat/assets/65375034/151ea766-2d7b-44d8-9fcb-8c5db5d18362)
+(First Version)
 ![image](https://github.com/luthfirf/whatsapp_click_to_chat/assets/65375034/2f5de658-5283-4e3d-b27a-5fb3cf308a0b)
 
 After the button is clicked, it will be directed or redirected to the next page, namely, Continue to Whatsapp Official Chat
